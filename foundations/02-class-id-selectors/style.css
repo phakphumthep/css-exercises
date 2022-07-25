@@ -1,0 +1,11 @@
+.odd .n3{
+    background-color: rgba(211, 125, 245, 0.932);
+    font-family:verdana,DejaVu san,sans-serif;
+}
+.n3 {
+    font-size: 24px;
+}
+.n2 {
+    font-size: 36px;
+    color:hsl(blue, 2, 3)
+}
