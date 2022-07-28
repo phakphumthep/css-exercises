@@ -7,7 +7,6 @@ body {
   width: 400px;
   background: #fff;
   margin: 8px auto;
-  height: 200px;
   padding: 8px;
 }
 
@@ -17,8 +16,6 @@ body {
   padding: 8px;
   margin-top: 8px;
   
-  
-
 }
 
 .content {
@@ -31,7 +28,6 @@ body {
 .button-container {
   background: #e3f4ff;
   padding: 16px;
-  margin-left: auto;
   text-align: center;
 }
 
@@ -41,5 +37,5 @@ button {
   margin: auto;
   padding: 8px 24px;
   display:block
-  
+
 }
