@@ -48,22 +48,24 @@ ul {
   list-style-type: none;
   display:flex;
   gap:16px;
-  align-items: center;
+  
+  margin:0;
+  padding:0;
 }
 .header{
   display:flex;
-  align-items: center;
-  padding:8px ;
-  
+  padding:8px;
+  justify-content:space-between;
 }
 .left
 { display:flex;
   align-items: center;
   margin:0;
+  gap:16px;
 }
 .right
 {  display:flex;
   align-items: center;
   gap:16px;
-  margin-left: auto;
+  
 }
